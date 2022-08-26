@@ -1,0 +1,8 @@
+/home/waltinho/Documentos/projects/registration-users/src/main/java/br/com/registrationUsers/registrationusers/users/controller/UserController.java
+/home/waltinho/Documentos/projects/registration-users/src/main/java/br/com/registrationUsers/registrationusers/users/mapper/UserMapper.java
+/home/waltinho/Documentos/projects/registration-users/src/main/java/br/com/registrationUsers/registrationusers/users/model/User.java
+/home/waltinho/Documentos/projects/registration-users/src/main/java/br/com/registrationUsers/registrationusers/users/dto/UserDTO.java
+/home/waltinho/Documentos/projects/registration-users/src/main/java/br/com/registrationUsers/registrationusers/users/service/UserServiceImpl.java
+/home/waltinho/Documentos/projects/registration-users/src/main/java/br/com/registrationUsers/registrationusers/users/repository/UserRepository.java
+/home/waltinho/Documentos/projects/registration-users/src/main/java/br/com/registrationUsers/registrationusers/RegistrationUsersApplication.java
+/home/waltinho/Documentos/projects/registration-users/src/main/java/br/com/registrationUsers/registrationusers/users/service/UserService.java

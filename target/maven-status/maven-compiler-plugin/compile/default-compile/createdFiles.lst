@@ -1,0 +1,8 @@
+br/com/registrationUsers/registrationusers/users/dto/UserDTO.class
+br/com/registrationUsers/registrationusers/RegistrationUsersApplication.class
+br/com/registrationUsers/registrationusers/users/mapper/UserMapper.class
+br/com/registrationUsers/registrationusers/users/repository/UserRepository.class
+br/com/registrationUsers/registrationusers/users/service/UserService.class
+br/com/registrationUsers/registrationusers/users/service/UserServiceImpl.class
+br/com/registrationUsers/registrationusers/users/controller/UserController.class
+br/com/registrationUsers/registrationusers/users/model/User.class
